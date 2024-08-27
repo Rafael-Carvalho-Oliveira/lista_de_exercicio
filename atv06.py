@@ -1,0 +1,3 @@
+fahrenheit = int(input("Insira um valor em Fahrenheit:")) #AQUI ESTÁ SENDO INSERIDO DO USUÁRIO PELO INPUT, O VALOR DO FAHRENHEIT
+celsius = (fahrenheit - 32)*5/9 #AQUI ESTÁ SENDO INFORMADO A FORMULA QUE SERÁ USADA DE FAHRENHEIT PARA CELSIUS
+print(f"O valor em Celsius é: {celsius}") #AQUI MOSTRARÁ O RESULTADO DO CÁLCULO USANDO PRINT NO TERMINAL
